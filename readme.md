@@ -1,0 +1,1 @@
+This is Month 1, Assignment 2 - Cloud Engineering with Alt School Africa
